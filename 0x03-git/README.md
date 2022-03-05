@@ -1,0 +1,1 @@
+This folder is all about how to use git in CLI and how to effectively interact with it through the command line
